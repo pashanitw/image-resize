@@ -1,0 +1,15 @@
+#main img{
+}
+#main{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+#later{
+    width: 500px;
+    height: 500px;
+    float: right;
+}
+.test{
+    overflow: hidden;
+}
